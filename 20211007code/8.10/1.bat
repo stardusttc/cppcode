@@ -1,0 +1,1 @@
+@"C:\AhaCpp\resources\core\bin\ConsolePauser.exe" "C:\Users\winni\OneDrive\×ÀÃæ\1.exe"
