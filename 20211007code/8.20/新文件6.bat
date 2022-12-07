@@ -1,0 +1,1 @@
+@"C:\AhaCpp\resources\core\bin\ConsolePauser.exe" "C:\Users\winni\OneDrive\桌面\学习\啊哈编程\8.20\新文件6.exe"
