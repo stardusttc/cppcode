@@ -1,0 +1,1 @@
+@"C:\Users\ahacode\workspace\ahacNG\core\bin\ConsolePauser.exe" "C:\Users\ahacode\workspace\ahacNG\code\foo.exe"
